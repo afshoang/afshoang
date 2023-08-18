@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Hoang Pham 👋</h1>
 
 <p align="center">
+    <a href="https://afshoang.github.io/portfolio/">
+        <img alt="me" title="Me" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
     <a href="https://linkedin.com/in/hoangpham56">
         <img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -9,6 +12,8 @@
 </br>
 
 - 👨‍💻 I am a full-stack developer living in Ha Noi
+
+- 💻 Check out [my portfolio website](https://afshoang.github.io/portfolio/)
 
 - 📫 Reach me at <afshoangpham56@gmail.com>
 
@@ -42,6 +47,7 @@
             <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
             <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
             <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+            <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         </p>
     
