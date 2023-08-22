@@ -26,6 +26,11 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afshoang&repo=Raw-Strength-Workout-Tracker" />
         </a>
     </p>
+    <p>
+        <a href="https://github.com/afshoang/findtrend-landing-page">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afshoang&repo=findtrend-landing-page" />
+        </a>
+    </p>
 </details>
 
 <details open>
