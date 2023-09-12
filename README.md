@@ -62,7 +62,7 @@
 <details open>
     <summary><h2>📊 Github Stats</h2></summary>
     <p>
-        <a href="https://github.com/prville">
+        <a href="https://github.com/afshoang">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshoang&hide_progress=true" />
         </a>
     </p>
