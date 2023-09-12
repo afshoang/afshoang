@@ -22,11 +22,12 @@
 <details open>
     <summary><h2>🗂️ Recent Projects</h2></summary>
     <p>
+        <a href="https://github.com/afshoang/mscomplex-mern">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afshoang&repo=mscomplex-mern" />
+        </a>
         <a href="https://github.com/afshoang/Raw-Strength-Workout-Tracker">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afshoang&repo=Raw-Strength-Workout-Tracker" />
         </a>
-    </p>
-    <p>
         <a href="https://github.com/afshoang/findtrend-landing-page">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afshoang&repo=findtrend-landing-page" />
         </a>
