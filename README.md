@@ -13,8 +13,6 @@
 
 - 👨‍💻 I am a full-stack developer living in Ha Noi
 
-- 💻 Check out [my portfolio website](https://afshoang.github.io/portfolio/)
-
 - 📫 Reach me at <afshoangpham56@gmail.com>
 
 </br>
